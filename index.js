@@ -12,7 +12,7 @@ function happyHolidayTo(haliday,name){
 }
 
 function holidayCountdown(holiday,days){
-  return "it\'s 20 days until Mother\'s Day!"
+  return `It's ${days} days until ${holiday}!`
 }
 
  describe('holidayCountdown(holiday, days)', () => {
