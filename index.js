@@ -8,6 +8,6 @@ function happyHolidaysTo(name){
 }
 
 function happyHolidayTo(haliday,name){
-  return "Happy $(holiday, $(name)!"
+  return "Happy Independence Day, you!"
 }
 
