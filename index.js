@@ -11,3 +11,6 @@ function happyHolidayTo(haliday,name){
   return "Happy Independence Day, you!"
 }
 
+function holidayCountdown(days,holiday){
+  return "its"
+}
